@@ -94,10 +94,10 @@
 <body>
     <header>
         <div class="header-content">
-            <!-- Add your profile picture here -->
-            <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Joel S</h1>
-            <p>Am code developer</p>
+            <!--  add the profile photo-->
+            <img src="https://share.icloud.com/photos/04bQ09cgtRLNj5iCdjWMSP8jQ" alt="Your Profile Picture" class="profile-picture">
+            <h1>Joel A</h1>
+            <p>programming developer</p>
         </div>
     </header>
 
@@ -128,7 +128,7 @@
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>madras university  - Mech</p>
+            <p>madras university - computer science</p>
             
             
         </div>
@@ -139,11 +139,11 @@
             <h2>Skills</h2>
             <ul>
                 <li>React</li>
-                <li>Mern</li>
+                <li>microprocessor</li>
                 <li>Cloud Computing</li>
                 <li>Python</li>
                 <li>Spring</li>
-                <li>ML & AI</li>
+                <li>coding</li>
                 <li>java</li>
                 <li>c++</li>
                 <li>Java script</li>
@@ -176,7 +176,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 Pranesh S</p>
+        <p>&copy; 2025 Joel A</p>
     </footer>
 
     <script>
